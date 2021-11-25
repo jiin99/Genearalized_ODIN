@@ -22,5 +22,5 @@ python main.py
 
 ### Test a model
 ```python
-python test.py
+python test.py --network dense --save_root save_root --gpu 0
 ```
