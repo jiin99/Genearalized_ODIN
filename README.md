@@ -1,6 +1,7 @@
 # GeneralizedODIN
 
 This is a implementation of generalized ODIN in [this paper](https://arxiv.org/pdf/2002.11297.pdf)
+
 No official code has been released.
 
 ### Environment
